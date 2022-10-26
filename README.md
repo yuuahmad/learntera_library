@@ -1,4 +1,25 @@
-## Hugo Theme Stack Starter Template
+# Learntera Library
+![logo learntera library](https://pustaka-learntera.web.app/learntera-library.png)
+
+learntera library dibuat menggunakan framework hugo agar bisa menampilakan websitenya di alamat pustaka.learntera.org hostingnya sendiri menggunakan hosting firebase. hanya admin yang bisa melakukan hosting kesana.
+
+jika kalian ingin berkontribusi di Learntera library kalian dapat menclone repo ini, dan melakukan push ke repo ini nanti admin akan melakukan pengecekan pada artikel atau dokumen kalian, sebelum nantinya di upload di website.
+
+## Data Singkat Learntera Library
+| Variabel             | Keterangan                              | Tambahan  |
+| -------------------- |-----------------------------------------| ----------|
+| nama domain          | pustaka.learntera.org                   |           |
+| provider hosting     | firebase hosting                        |           |
+| nama admin           | ahmad yusuf maulana                     |           |
+| instagram admin      | instagram.com/yuuahmad                  |           |
+| domain utama         | learntera.org                           |           |
+| framework            | hugo                                    |           |
+| jenis website        | blog, repository, dokumentasi           |           |
+| pembelian hosting    | niagahoster                             |           |
+| repo github          | github.com/yuuahmad/learntera-library   |           |
+
+<details>
+  <summary>Hugo Theme Stack Starter Template</summary>
 
 This is a quick start template for [Hugo theme Stack](https://github.com/CaiJimmy/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
 
@@ -51,4 +72,5 @@ amazon-linux-extras install golang1.11 && hugo --gc --minify
 Make sure also to specify Hugo version in the environment variable `HUGO_VERSION` (Use the latest version of Hugo extended):
 
 ![Environment variable](https://user-images.githubusercontent.com/5889006/156917212-afb7c70d-ab85-480f-8288-b15781a462c0.png)
+</details>
 </details>

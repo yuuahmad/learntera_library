@@ -1,4 +1,12 @@
-baseURL = 'http://learntera.org/'
+baseURL = 'https://pustaka.learntera.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Learntera Library'
 theme = 'hugo-theme-stack'
+
+[params]
+    favicon = "/favicon.ico"
+    [params.sidebar]
+        subtitle = "tempat dimana kita belajar, mempraktekkan, dan mengamalkan ilmu"
+    [params.sidebar.avatar]
+        enabled = true
+        src = "/learntera-library.png"
