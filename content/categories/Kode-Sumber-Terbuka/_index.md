@@ -1,6 +1,6 @@
 ---
-title: "Laporan TA Awal"
-image: laporan ta awal.jpg
+title: "Kode Sumber Terbuka"
+image: github.png
 style:
     background: "#2a9d8f"
     color: "#fff"

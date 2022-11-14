@@ -7,11 +7,11 @@ math:
 license: 
 hidden: false
 comments: true
-draft: false
+draft: true
 categories:
     # - Laporan KKN
     # - Laporan KP
-    - Laporan TA Awal
+    - Laporan TA
     # - Laporan TA akhir
 tags:
     # - KKN

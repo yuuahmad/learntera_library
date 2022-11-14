@@ -19,4 +19,7 @@ tags:
     - Institut Teknologi Sumatera
 ---
 
-ini adalah laporan kerja praktik saya yang saya lakukan secara virtual 
+ini adalah laporan kerja praktik saya yang saya lakukan secara virtual
+<!-- {{< youtube oO5k-0QpxTk >}} -->
+<!-- {{< pdf url="http://repository.umpalopo.ac.id/329/3/BAB%20-%20201620201.pdf" fileName="nama file saya">}} -->
+{{< iframe-drive url="https://drive.google.com/file/d/1n9vA6F59hplkeXEkXU3c8O2Fttf88-sx/preview" >}} 
