@@ -1,12 +1,12 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Sidang Senat Terbuka Penerimaan Mahasiswa Baru Institut Teknologi Sumatera Tahun Ajaran 2019 2020"
 links:
   - title: Link Google Drive
-    description: {{ replace .Name "-" " " | title }}
-    website: https://drive.google.com/file/d/1yfRuRUBxbUIgQMOQZgRAy635GUa_HDpy?usp=share_link
+    description: Sidang Senat Terbuka Penerimaan Mahasiswa Baru Institut Teknologi Sumatera Tahun Ajaran 2019 2020
+    website: https://drive.google.com/file/d/1s2OuwOTzK499076LEd_zOtMijuFVTgRW?usp=share_link
     image: gambar.png
 description: 
-date: {{ .Date }}
+date: 2022-12-20T07:03:55+07:00
 image: gambar.png
 math: 
 license: 
@@ -14,42 +14,38 @@ hidden: false
 comments: true
 draft: false
 categories:
-    - Laporan KKN
-    - Laporan KP
-    - Laporan TA
+    # - Laporan KKN
+    # - Laporan KP
+    # - Laporan TA
     - Buku Terbuka
-    - Kode Sumber Terbuka
-    - Example Category
-    - Presentasi TA
-    - Buku Manual Produk
-    - Soal UTS
-    - Soal UAS
-    - Mata Kuliah
-    - Jurnal
-    - Poster
+    # - Kode Sumber Terbuka
+    # - Example Category
+    # - Presentasi TA
+    # - Buku Manual Produk
+    # - Soal UTS
+    # - Soal UAS
+    # - Mata Kuliah
+    # - Jurnal
+    # - Poster
 tags:
-    - Kuliah Kerja Nyata
-    - Tugas Akhir
+    # - Kuliah Kerja Nyata
+    # - Tugas Akhir
     - Buku Terbuka
-    - Institut Teknologi Sumatera
-    - Teknik X
-    - Example Tag
+    # - Institut Teknologi Sumatera
+    # - Teknik X
+    # - Example Tag
 ---
 
 <!-- format penulisan rincian laporan (repo) -->
 ## Keterangan Laporan / Buku
 | Nama Data                               | Keterangan                                  |
 | --------------------------------------- | ------------------------------------------- |
-| Judul                                   | {{ replace .Name "-" " " | title }} |
-| Tipe Tulisan / Subtipe Tulisan          | Tugas Akhir / Seminar Hasil |
-| Nama Pengarang                          | Made Agus Andi Gunawan|
-| NIM                                     | 118320008 |
-| Prodi / Perguruan Tinggi                | Teknik Fisika / Institut Teknologi Sumatera |
-| Pembimbing 1                            | Nike Dwi Grevika Drantantiyas,S.Si., M.T. |
-| Pembimbing 2                            | Ahmad Suaif, S.Si., M.Si. |
+| Judul                                   | Sidang Senat Terbuka Penerimaan Mahasiswa Baru Institut Teknologi Sumatera Tahun Ajaran 2019 2020 |
+| Tipe Tulisan / Subtipe Tulisan          | Buku Terbuka |
+| Nama Pengarang                          | Institut Teknologi Sumatera|
 
 ## Baca Laporan / Buku
-{{< iframe-drive url="https://drive.google.com/file/d/1yfRuRUBxbUIgQMOQZgRAy635GUa_HDpy/preview" >}}
+{{< iframe-drive url="https://drive.google.com/file/d/1s2OuwOTzK499076LEd_zOtMijuFVTgRW/preview" >}}
 
 <!-- {{< youtube oO5k-0QpxTk >}} -->
 <!-- {{< pdf url="https://drive.google.com/file/d/1n9vA6F59hplkeXEkXU3c8O2Fttf88-sx/preview" fileName="nama file saya">}}
@@ -59,7 +55,7 @@ tags:
 <!-- ## Keterangan Laporan / Buku
 | Nama Data                               | Keterangan                                  |
 | --------------------------------------- | ------------------------------------------- |
-| Judul                                   |  {{ replace .Name "-" " " | title }} |
+| Judul                                   |  Sidang Senat Terbuka Penerimaan Mahasiswa Baru Institut Teknologi Sumatera Tahun Ajaran 2019 2020 |
 | Tipe Tulisan / Subtipe Tulisan          | Kuliah Kerja Nyata |
 | Nama Pengarang 1 / NIM                  | Salman Alfarizi (24117100) |
 | Nama Pengarang 2 / NIM                  | Alin Amanda Putri (25117002) |

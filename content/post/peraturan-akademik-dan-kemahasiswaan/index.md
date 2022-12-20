@@ -1,12 +1,12 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Peraturan Akademik Dan Kemahasiswaan"
 links:
   - title: Link Google Drive
-    description: {{ replace .Name "-" " " | title }}
-    website: https://drive.google.com/file/d/1yfRuRUBxbUIgQMOQZgRAy635GUa_HDpy?usp=share_link
+    description: Peraturan Akademik Dan Kemahasiswaan
+    website: https://drive.google.com/file/d/1sAl3ToRlCmeeB4d3-Ow2TaSh8MVPNCWm?usp=share_link
     image: gambar.png
 description: 
-date: {{ .Date }}
+date: 2022-12-20T06:59:31+07:00
 image: gambar.png
 math: 
 license: 
@@ -14,42 +14,37 @@ hidden: false
 comments: true
 draft: false
 categories:
-    - Laporan KKN
-    - Laporan KP
-    - Laporan TA
+    # - Laporan KKN
+    # - Laporan KP
+    # - Laporan TA
     - Buku Terbuka
-    - Kode Sumber Terbuka
-    - Example Category
-    - Presentasi TA
-    - Buku Manual Produk
-    - Soal UTS
-    - Soal UAS
-    - Mata Kuliah
-    - Jurnal
-    - Poster
+    # - Kode Sumber Terbuka
+    # - Example Category
+    # - Presentasi TA
+    # - Buku Manual Produk
+    # - Soal UTS
+    # - Soal UAS
+    # - Mata Kuliah
+    # - Jurnal
+    # - Poster
 tags:
-    - Kuliah Kerja Nyata
-    - Tugas Akhir
+    # - Kuliah Kerja Nyata
+    # - Tugas Akhir
     - Buku Terbuka
     - Institut Teknologi Sumatera
-    - Teknik X
-    - Example Tag
+    # - Teknik X
+    # - Example Tag
 ---
 
 <!-- format penulisan rincian laporan (repo) -->
 ## Keterangan Laporan / Buku
 | Nama Data                               | Keterangan                                  |
 | --------------------------------------- | ------------------------------------------- |
-| Judul                                   | {{ replace .Name "-" " " | title }} |
-| Tipe Tulisan / Subtipe Tulisan          | Tugas Akhir / Seminar Hasil |
-| Nama Pengarang                          | Made Agus Andi Gunawan|
-| NIM                                     | 118320008 |
-| Prodi / Perguruan Tinggi                | Teknik Fisika / Institut Teknologi Sumatera |
-| Pembimbing 1                            | Nike Dwi Grevika Drantantiyas,S.Si., M.T. |
-| Pembimbing 2                            | Ahmad Suaif, S.Si., M.Si. |
+| Judul                                   | Peraturan Akademik Dan Kemahasiswaan |
+| Nama Pengarang                          | Institut Teknologi Sumatera |
 
 ## Baca Laporan / Buku
-{{< iframe-drive url="https://drive.google.com/file/d/1yfRuRUBxbUIgQMOQZgRAy635GUa_HDpy/preview" >}}
+{{< iframe-drive url="https://drive.google.com/file/d/1sAl3ToRlCmeeB4d3-Ow2TaSh8MVPNCWm/preview" >}}
 
 <!-- {{< youtube oO5k-0QpxTk >}} -->
 <!-- {{< pdf url="https://drive.google.com/file/d/1n9vA6F59hplkeXEkXU3c8O2Fttf88-sx/preview" fileName="nama file saya">}}
@@ -59,7 +54,7 @@ tags:
 <!-- ## Keterangan Laporan / Buku
 | Nama Data                               | Keterangan                                  |
 | --------------------------------------- | ------------------------------------------- |
-| Judul                                   |  {{ replace .Name "-" " " | title }} |
+| Judul                                   |  Peraturan Akademik Dan Kemahasiswaan |
 | Tipe Tulisan / Subtipe Tulisan          | Kuliah Kerja Nyata |
 | Nama Pengarang 1 / NIM                  | Salman Alfarizi (24117100) |
 | Nama Pengarang 2 / NIM                  | Alin Amanda Putri (25117002) |

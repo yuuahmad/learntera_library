@@ -24,7 +24,7 @@ tags:
     # - Kuliah Kerja Nyata
     - Tugas Akhir
     - Institut Teknologi Sumatera
-    - Teknik Fisika ITERA
+    - Teknik Fisika
     # - Example Tag
 ---
 
