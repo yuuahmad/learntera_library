@@ -16,6 +16,18 @@ comments: false
 
 silahkan berdonasi ke QR Code dibawah ini jika kalian merasa website ini memiliki dampak, memiliki arti, dan memiliki tujuan bagi kalian.
 
+## Link Donasi
+![link Qris donasi learntera lib](gambar.jpg)
+
+## Keterangan 
+donasi yang kalian berikan akan kami gunakan untuk akomodasi, pembelian alat yang lebih baik, dan maintenance server website ini. adapun laporan keuangannya akan kami sampaikan pada halaman ini secara terbuka, tanpa ditutup-tutupi, dan jujur. 
+
+## Laporan Keuangan
+berikut ini kami sampaikan laporan keuangan learntera library.
+### Desember 2022
+belum ada data
+### Januari 2023
+belum ada data
 <!-- To use this feature, add `links` section to frontmatter.
 
 This page's frontmatter:
